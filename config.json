@@ -1,0 +1,13 @@
+{
+  "BOT_TOKEN": "ton token",
+  "SERVER_URL": "148.251.254.60:30083",
+  "SERVER_LOGO": "https://cdn.discordapp.com/attachments/802230887575978024/866057008725753886/R.png",
+  "SERVER_NAME": "Blauw RP",
+  "PREFIX": "ton prefix",
+  "CHANNELS_ID":{
+      "SUGGESTIONS":"866064831466438676",
+      "MEMES":"866056183852171317",
+      "ANIMALS":"866056183852171317"
+  }
+  
+}
